@@ -1,4 +1,4 @@
-# Recebendo strings do usuário e concatenando-as.
+# Recebe strings do usuário e as concatena.
 
 entrada1 = input("Digite a primeira string: ")
 entrada2 = input("Digite a segunda string: ")
