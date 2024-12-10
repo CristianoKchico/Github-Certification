@@ -1,4 +1,4 @@
-![githubcertification](https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n) 
+![imagem_github](https://media.licdn.com/dms/image/C4E12AQFTIDn9BhkjIw/article-cover_image-shrink_600_2000/0/1613050809451?e=2147483647&v=beta&t=G-MvbqflRtpElkziO1SvZf8PGedysrdjq7fzZutcrAg) 
 
 # ***Repositório para prática do Git e Github***
 
